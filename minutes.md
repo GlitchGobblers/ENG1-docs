@@ -9,19 +9,25 @@
 | Date                    | 2025-10-01 |
 | ----------------------- | ---------- |
 | Attending Members       |            |
-| Agenda                  |            |
 | Description of Progress |            |
-- Abualhassan:
+- Agenda:
+	- discuss team roles
+		- strengths and weaknesses
+	- establish ground rules
+	- all documentation via github to keep everything localised
 	- 
-- Charles:
-	- 
-- Cassie:
-	- 
-- Dash:
-	- 
-- Harley:
-	- 
-- Hannah:
-	- 
-- Kiran:
-	- 
+- Minutes:
+	- Abualhassan:
+		- 
+	- Charles:
+		- 
+	- Cassie:
+		- 
+	- Dash:
+		- 
+	- Harley:
+		- 
+	- Hannah:
+		- 
+	- Kiran:
+		- 
