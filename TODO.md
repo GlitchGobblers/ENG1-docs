@@ -2,4 +2,19 @@
 - Requirements tasks:
 	- [ ] 
 - Other tasks:
-	- [ ] 
+	- Harley + Dash:
+		- [ ] research appropriately licensed assets
+			- document the search process and why you chose which
+	- Hannah:
+		- [ ] game engine research
+	- Charles:
+		- [ ] map editor research
+	- Cassie:
+		- [ ] research what makes a project attractive to take over
+		- [ ] set up bibliography
+	- Kiran
+		- [ ] review HCIN lessons for using for new interview
+	- Abualhassan
+		- [ ] research collaboration tools
+	- Dash
+		- [ ] research Agile framework

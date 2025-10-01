@@ -6,18 +6,17 @@
 | Agenda                  | Get to know everyone and set up socials/communication methods                                                                                                    |
 | Description of Progress | Created Instagram group chat to communicate, created GitHub organisation to keep track of code progress and share code, created Google Doc to document meetings. |
 
-| Date                    | 2025-10-01                                |
-| ----------------------- | ----------------------------------------- |
-| Attending Members       | Abualhassan, Charles, Cassie, Dash, Kiran |
-| Description of Progress |                                           |
+| Date                    | 2025-10-01                                                                                                                                          |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attending Members       | Abualhassan, Charles, Cassie, Dash, Kiran, Hannah                                                                                                   |
+| Description of Progress | Assigned roles, read all documentation, schedule and task list created, created github organisation for collaboration, begin planning for interview |
 - Agenda:
 	- ~~discuss team roles~~
 		- ~~strengths and weaknesses~~
-	- establish ground rules
+	- ~~establish ground rules~~
 	- ~~all documentation via github to keep everything localised~~
 	- ~~plan interview with client~~
-	- go over assessment documentation and figure out what needs to be decided on
-	- assign research of ex. game engine
+	- ~~go over assessment documentation and figure out what needs to be decided on~~
 - Minutes:
 	- Abualhassan:
 		- separation of coding vs QA vs unit testing writing
@@ -126,4 +125,45 @@
 			- spec issues
 	- ca + ch:
 		- HCIN review for the interview itself
-	- 
+		- discuss why we chose an interview in the report?
+		- consent form
+	- da:
+		- we should ask to allow recording
+	- ha:
+		- we should discuss actual questions tomorrow
+	- ca:
+		- we should start out with a simple, versatile architecture and plan to evolve as we go
+		- remember to document when we do!
+		- research how to architect a program first
+		- more things to research on collaboration tools etc
+		- need to write up the plan once we have one
+		- research risk assessments here
+		- ask how ties are broken for selecting the project for part 2
+	- da
+		- research agile framework
+		- can we modify their code and how much
+		- we should implement helpful things for future teams
+			- code comments + docstrings
+	- ca:
+		- credit will be given for evidence of research
+		- i have a tool that helps with making a bibliography so if we all put links in there it will document itself
+	- da:
+		- we need to evaluate different options and document that
+	- ca + da + ch:
+		- we're all available this timeslot but if more than half can't make it we reschedule
+		- charles has jury duty after consolidation week
+			- put that on the risk list
+	- ca:
+		- librarian needs to make sure documentation + code are together and updated
+		- we send email if we're unsure
+		- keep wordcount to a minimum
+	- da:
+		- when creating documents for the reports we create the specific marking requirements and so on should be at the top for reference
+
+| Date                    | 2025-10-02 |
+| ----------------------- | ---------- |
+| Attending Members       |            |
+| Description of Progress |            |
+- Agenda:
+	- complete practical exercises
+	- interview question creation
