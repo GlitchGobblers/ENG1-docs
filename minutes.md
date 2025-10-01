@@ -54,10 +54,6 @@
 	- Harley:
 		- would prefer a reduced programming load
 		- may be good at pixelart
-	- Hannah:
-		- 
-	- Kiran:
-	- 
 	- ca: two roles because we ruled out programmer and artist
 	- da: transfer out librarian role
 		- propose art lead role
@@ -104,3 +100,30 @@
 		- visible events are literally any interaction
 	- da:
 		- discussion of what counts as what kind of event
+		- we should discuss the big document together
+	- ca:
+		- we give a presentation which people vote on if they want to take over
+	- ha
+		- use a simpler game engine so it's nicer
+	- da:
+		- need to research how to make our project attractive
+		- contacting dept about missing 8th member
+	- ca:
+		- strongly discouraged from adding unjustifiable additional features
+		- we should make a spec, which is requirement leader responsibility
+	- da:
+		- will help out with anyone whose workload is too large
+	- ha:
+		- avoid commercial software, nobody wants to spend money
+	- ca:
+		- all the different parts listed on the deliverables
+	- ch + da: 
+		- discussing risk assessment:
+			- obscelence in libraries
+			- security issues in libraries
+			- dropouts
+			- bugs with tools
+			- spec issues
+	- ca + ch:
+		- HCIN review for the interview itself
+	- 
