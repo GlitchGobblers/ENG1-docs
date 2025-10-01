@@ -6,30 +6,101 @@
 | Agenda                  | Get to know everyone and set up socials/communication methods                                                                                                    |
 | Description of Progress | Created Instagram group chat to communicate, created GitHub organisation to keep track of code progress and share code, created Google Doc to document meetings. |
 
-| Date                    | 2025-10-01 |
-| ----------------------- | ---------- |
-| Attending Members       |            |
-| Description of Progress |            |
+| Date                    | 2025-10-01                                |
+| ----------------------- | ----------------------------------------- |
+| Attending Members       | Abualhassan, Charles, Cassie, Dash, Kiran |
+| Description of Progress |                                           |
 - Agenda:
-	- discuss team roles
-		- strengths and weaknesses
+	- ~~discuss team roles~~
+		- ~~strengths and weaknesses~~
 	- establish ground rules
-	- all documentation via github to keep everything localised
+	- ~~all documentation via github to keep everything localised~~
+	- ~~plan interview with client~~
 	- go over assessment documentation and figure out what needs to be decided on
-	- plan interview with client
 	- assign research of ex. game engine
 - Minutes:
 	- Abualhassan:
-		- 
+		- separation of coding vs QA vs unit testing writing
 	- Charles:
-		- 
+		- roles designed more for meetings than actual practice
+		- proposal of artist role
 	- Cassie:
-		- 
+		- all documentation is on github now
+		- volunteering for secretary
+		- everyone programs
+		- assets are provided
+		- game should look good for mid assessment swapping with other people so it's attractive
 	- Dash:
-		- 
+		- team roles should be fluid, so people can swap in and out of roles
+		- we should make a list of roles:
+			- secretary
+				- notetaker
+			- project leader/overseer
+				- keeps things on track
+			- meeting chair
+				- make the agenda and keeps it 
+			- report editor:
+				- overseeing assessment deliverables
+			- librarian:
+				- keeper of documentation / overseer of version control
+			- requirements leader:
+				- works with client interview and handles that
+			- art lead
+				- handles all art things
+		- should we have one for programmer?
+		- the game should look good
+			- it's subconscious
+		- copyright-free pixel art
 	- Harley:
-		- 
+		- would prefer a reduced programming load
+		- may be good at pixelart
 	- Hannah:
 		- 
 	- Kiran:
-		- 
+	- 
+	- ca: two roles because we ruled out programmer and artist
+	- da: transfer out librarian role
+		- propose art lead role
+		- propose requirements leader
+		- split out meeting chair from team leader/secretary
+	- ca:
+		- make art lead role for 7
+		- all subject to change if necessary or desired
+		- harley assigned as art lead
+		- volunteer as librarian
+	- da:
+		- volunteer as project leader
+	- ch:
+		- volunteer requirements leader
+	- ki:
+		- volunteer report editor
+	- ab:
+		- secretary
+	- ha:
+		- meeting chair
+	- ca:
+		- found client email on vle
+	- da:
+		- sent email to konstantinos (our client)
+	- ki:
+		- go through brief before deciding on interview qs
+	- ca:
+		- non-defined things from spec:
+			- aesthetic
+			- difficulty levels
+			- ask about "Run! The dean is coming!"
+			- ki: 
+				- suggestions of kinds of events
+			- ask about the general tone
+			- ask about specifics of blocking events
+			- ask any questions anyone else has in the moment
+			- any specific features not already mentioned
+	- da:
+		- research game engine, tools for map editors etc, licensed assets
+		- interview slots next week
+			- we should all go
+	- ca:
+		- invisible events are easter eggs
+		- visible events are literally any interaction
+	- da:
+		- discussion of what counts as what kind of event
