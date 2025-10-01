@@ -17,6 +17,7 @@
 	- all documentation via github to keep everything localised
 	- go over assessment documentation and figure out what needs to be decided on
 	- plan interview with client
+	- assign research of ex. game engine
 - Minutes:
 	- Abualhassan:
 		- 
