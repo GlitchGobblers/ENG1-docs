@@ -69,10 +69,12 @@
 		- volunteer requirements leader
 	- ki:
 		- volunteer report editor
-	- ab:
+	- han:
 		- secretary
-	- ha:
+	- ab:
 		- meeting chair
+	- har:
+		- art lead
 	- ca:
 		- found client email on vle
 	- da:
