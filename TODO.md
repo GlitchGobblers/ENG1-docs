@@ -11,7 +11,7 @@
 		- [ ] map editor research
 	- Cassie:
 		- [ ] research what makes a project attractive to take over
-		- [ ] set up bibliography
+		- [x] set up bibliography
 	- Kiran
 		- [ ] review HCIN lessons for using for new interview
 	- Abualhassan
