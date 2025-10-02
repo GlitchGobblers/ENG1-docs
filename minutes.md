@@ -5,18 +5,19 @@
 | Attending Members       | Dash, Charles, Cassie, Kiran, Harley, Hannah, Abualhassan                                                                                                        |
 | Agenda                  | Get to know everyone and set up socials/communication methods                                                                                                    |
 | Description of Progress | Created Instagram group chat to communicate, created GitHub organisation to keep track of code progress and share code, created Google Doc to document meetings. |
+<br>
 
-| Date                    | 2025-10-01                                                                                                                                          |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Attending Members       | Abualhassan, Charles, Cassie, Dash, Kiran, Hannah                                                                                                   |
-| Description of Progress | Assigned roles, read all documentation, schedule and task list created, created github organisation for collaboration, begin planning for interview |
-- Agenda:
-	- ~~discuss team roles~~
-		- ~~strengths and weaknesses~~
-	- ~~establish ground rules~~
-	- ~~all documentation via github to keep everything localised~~
-	- ~~plan interview with client~~
-	- ~~go over assessment documentation and figure out what needs to be decided on~~
+---
+
+<br>
+
+| Date                    | 2025-10-01                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Attending Members       | Abualhassan, Charles, Cassie, Dash, Kiran, Hannah                                                                                                                                                                                                                                                                                                       |
+| Agenda                  | Discuss team roles (individual strengths & weaknesses). Establish ground rules. Move/complete all documentation to GitHub to keep everything centralised. Plan some questions for interview with client. Go over assessment documentation and figure out what needs to be decided on.                                                                   |
+| Description of Progress | Assigned roles, read all documentation, schedule and task list created, created GitHub organisation for collaboration, begin planning for interview. Roles:<br>Dash: Project Lead<br>Cassie: Librarian<br>Harley: Art Lead<br>Hannah: Secretary<br>Kiran: Report Editor<br>Abualhassan: Meeting Chair<br>Charles: Requirements Lead<br>Ben: Design Lead |
+<details>
+<summary> Summarised Meeting Transcript </summary>
 - Minutes:
 	- Abualhassan:
 		- separation of coding vs QA vs unit testing writing
@@ -46,6 +47,8 @@
 				- works with client interview and handles that
 			- art lead
 				- handles all art things
+			- design lead
+				- oversees design and ensures it is followed
 		- should we have one for programmer?
 		- the game should look good
 			- it's subconscious
@@ -161,10 +164,12 @@
 		- keep wordcount to a minimum
 	- da:
 		- when creating documents for the reports we create the specific marking requirements and so on should be at the top for reference
+</details>
 
 | Date                    | 2025-10-02 |
 | ----------------------- | ---------- |
 | Attending Members       |            |
+| Agenda                  |            |
 | Description of Progress |            |
 - Agenda:
 	- complete practical exercises
