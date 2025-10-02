@@ -6,11 +6,11 @@
 		- [ ] research appropriately licensed assets
 			- document the search process and why you chose which
 	- Hannah:
-		- [ ] game engine research
+		- [ ] game engine research (libgdx is quite a simple engine that works very well it has lots of documentation and most groups will probably use this so it will be easier to sell on)
 	- Charles:
-		- [ ] map editor research
+		- [ ] map editor research (tiled is free open source and very easy to use, assets can be downloaded for free on itch.io but sometimes struggle with liscences)
 	- Cassie:
-		- [ ] research what makes a project attractive to take over
+		- [ ] research what makes a project attractive to take over 
 		- [x] set up bibliography
 	- Kiran
 		- [ ] review HCIN lessons for using for new interview
