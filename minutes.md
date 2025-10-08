@@ -168,11 +168,11 @@
 
 <br>
 
-| Date                    | 2025-10-02                                                 |
-| ----------------------- | ---------------------------------------------------------- |
-| Attending Members       | Abualhassan, Ben , Cassie, Dash, Kiran, Hannah , Harley    |
-| Agenda                  | complete practical exercises , interview question creation |
-| Description of Progress | completed the interview questions                          |
+| Date                    | 2025-10-02                                                |
+| ----------------------- | --------------------------------------------------------- |
+| Attending Members       | Abualhassan, Ben, Cassie, Dash, Kiran, Hannah, Harley     |
+| Agenda                  | complete practical exercises, interview question creation |
+| Description of Progress | completed the interview questions                         |
 
 <br>
 
