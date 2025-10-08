@@ -1,7 +1,7 @@
 **Requirements:**
 
 **Design:**   
-    *Tone (Serious/humour)   
+    * Tone (Serious/humour)   
         * References to the university   
     * aesthetics/style (**Jorvik/medieval**, cyberpunk, sci-fi, vaporwave)   
         * must fit together and also connect to uni (long boi in the form of shrine, hidden room, etc)   
