@@ -194,3 +194,6 @@
 
 - created interview transcript and summary
 - created requirements file
+- discussed requirements
+- decided on theme
+- 
