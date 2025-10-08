@@ -166,11 +166,13 @@
 		- when creating documents for the reports we create the specific marking requirements and so on should be at the top for reference
 </details>
 
-| Date                    | 2025-10-02 |
-| ----------------------- | ---------- |
-| Attending Members       | Abualhassan, Ben , Cassie, Dash, Kiran, Hannah , Harley      |
-| Agenda                  |     complete practical exercises , interview question creation    |
-| Description of Progress |     completed the interview questions       |
+<br>
+
+| Date                    | 2025-10-02                                                 |
+| ----------------------- | ---------------------------------------------------------- |
+| Attending Members       | Abualhassan, Ben , Cassie, Dash, Kiran, Hannah , Harley    |
+| Agenda                  | complete practical exercises , interview question creation |
+| Description of Progress | completed the interview questions                          |
 
 <br>
 
@@ -187,3 +189,6 @@
 	- Interview Review
 	- Decide on the architecture tools "structural and behavioural diagrams"
     - Inintial implementation of the architecture
+
+- created interview transcript and summary
+- created requirements file
