@@ -2,7 +2,7 @@
 - Requirements tasks:
 	- [ ] 
 - Other tasks:
-	- Harley + Dash:
+	- Harley + Ben:
 		- [ ] research appropriately licensed assets
 			- document the search process and why you chose which
 	- Hannah:
