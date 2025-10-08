@@ -168,9 +168,18 @@
 
 | Date                    | 2025-10-02 |
 | ----------------------- | ---------- |
+| Attending Members       | Abualhassan, Ben , Cassie, Dash, Kiran, Hannah , Harley      |
+| Agenda                  |     complete practical exercises , interview question creation    |
+| Description of Progress |     completed the interview questions       |
+
+
+   
+| Date                    | 2025-10-08 |
+| ----------------------- | ---------- |
 | Attending Members       |            |
 | Agenda                  |            |
 | Description of Progress |            |
 - Agenda:
-	- complete practical exercises
-	- interview question creation
+	- Interview Review
+	- Decide on the architecture tools "structural and behavioural diagrams"
+    - Inintial implementation of the architecture
