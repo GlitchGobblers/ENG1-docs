@@ -18,6 +18,7 @@
 | Description of Progress | Assigned roles, read all documentation, schedule and task list created, created GitHub organisation for collaboration, begin planning for interview. Roles:<br>Dash: Project Lead<br>Cassie: Librarian<br>Harley: Art Lead<br>Hannah: Secretary<br>Kiran: Report Editor<br>Abualhassan: Meeting Chair<br>Charles: Requirements Lead<br>Ben: Design Lead |
 <details>
 <summary> Summarised Meeting Transcript </summary>
+	<p>
 - Minutes:
 	- Abualhassan:
 		- separation of coding vs QA vs unit testing writing
@@ -164,6 +165,7 @@
 		- keep wordcount to a minimum
 	- da:
 		- when creating documents for the reports we create the specific marking requirements and so on should be at the top for reference
+		</p>
 </details>
 
 <br>
