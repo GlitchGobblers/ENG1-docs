@@ -1,14 +1,13 @@
 **Requirements:**
 **Design**
-- Tone (Serious/humour)
+- Tone (Serious/**humour**)
     - References to the university
-      
 	* aesthetics/style (**Jorvik/medieval**, cyberpunk, sci-fi, vaporwave)
 		* must fit together and also connect to uni (long boi in the form of shrine, hidden room, etc)
-		* highly colo-rful
+		* highly colourful
 		* family-friendly
      
-**Gameplay***
+**Gameplay**
   * "NPC that follows the player, annoying text bubbles, anything else related to uni that creates a sense of wanting to escape"
   * Difficulty (easy for accessibility)
   * Core mechanics
