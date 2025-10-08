@@ -172,6 +172,12 @@
 | Agenda                  |     complete practical exercises , interview question creation    |
 | Description of Progress |     completed the interview questions       |
 
+<br>
+
+---
+
+<br>
+
 | Date                    | 2025-10-08                                                     |
 | ----------------------- | -------------------------------------------------------------- |
 | Attending Members       | Abualhassan, Ben, Charles, Cassie, Dash, Kiran, Hannah, Harley |
