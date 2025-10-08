@@ -2,8 +2,9 @@
 **Design**
 - Tone (Serious/**humour**)
     - References to the university
-	* aesthetics/style (**Jorvik/medieval**, cyberpunk, sci-fi, vaporwave)
+	* aesthetics/style (Jorvik/medieval, cyberpunk, sci-fi, vaporwave, zombie-style exam week (shaun of the deadish), palace of the mind (mental health theme))
 		* must fit together and also connect to uni (long boi in the form of shrine, hidden room, etc)
+		* primarily issues from asset sourcing
 		* highly colourful
 		* family-friendly
      
@@ -26,7 +27,10 @@
 	- Easter eggs
 	- Barriers
 	- Rewards
-    
+- additional bar 
+	- stress managment?
+	- triggers an event if it's too high?
+	    
 **Legal**
 - Contains a credits screen
 - Legal usage of assets 
