@@ -19,7 +19,7 @@
         
 -GitHub: used for sharing and collaborating on code, tracking changes, managing branches, it is also used for meeting notes and tasks, making it easy to track the project progress .
 
--IntelliJ IDE vs Visual Studio Code: is A Java-based IDE, widely used by Java developers, and as our project is Java-based, it's a good fit, comes with extensive community support, and most features and integration tools.VS Code requires many extensions to install if we want to use it, but it's good for projects that involve multiple programming languages)
+-IntelliJ IDE vs Visual Studio Code:IntelliJ is Java-based IDE, widely used by Java developers, and as our project is Java-based, it's a good fit, comes with extensive community support, and most features and integration tools.VS Code requires many extensions to install if we want to use it, but it's good for projects that involve multiple programming languages)
 
 	- Dash
 		- [ ] research Agile framework
