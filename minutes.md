@@ -246,7 +246,7 @@
 	- Dash: start programming by next week since we'll most likely have everything in place.
 
 	- new project is created on github allowing us to create to-do list tasks. Ones that are in progress and implementation to-do tasks. Each group member can contribute in what task they want to do in the to-do list. Members would most likely do tasks in the section they've been assigned to.
-	</p>
+</p>
 </details>
 <br>
 
