@@ -226,7 +226,7 @@
 
 		- Implementation: (25) Not assigned yet, will be assigned after architecture section
 		is finished.
-
+<details>
 <summary> Summarised Meeting Transcript </summary>
 	<p>
 Minutes:
@@ -239,7 +239,7 @@ Minutes:
 	- Cassie: Make a prototype that we can all look at and understand so we know how the game engine LibGDX is like.
 	- Dash: start programming by next week since we'll most likely have everything in place.
 	</p>
-
+</details>
 <br>
 
 ---
