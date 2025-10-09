@@ -196,4 +196,14 @@
 - created requirements file
 - discussed requirements
 - decided on theme
-- 
+
+<br>
+
+---
+
+<br>
+| Date                    | 2025-10-09                                                |
+| ----------------------- | --------------------------------------------------------- |
+| Attending Members       |                                                           |
+| Agenda                  |                                                           |
+| Description of Progress |                                                           |
