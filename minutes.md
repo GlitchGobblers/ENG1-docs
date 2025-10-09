@@ -238,7 +238,7 @@ Minutes:
 	- Dash created 5 iterations for the next 5 weeks (Thur-Wed for each iteration). More information will be in the PROCESS.md doc.
 	- Cassie: Make a prototype that we can all look at and understand so we know how the game engine LibGDX is like.
 	- Dash: start programming by next week since we'll most likely have everything in place.
-</p>
+	</p>
 
 <br>
 
