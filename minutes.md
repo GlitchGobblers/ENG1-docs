@@ -203,3 +203,45 @@
 
 <br>
 
+| Date                    | 2025-10-09                                                     |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Abualhassan, Ben, Charles, Cassie, Dash, Kiran, Hannah		   |
+| Agenda                  | Assigning sections to each group member	                       |
+| Description of Progress | Finishing To-do tasks, assigning sections, project created on github 				 | 
+
+- Agenda:
+	- Assigned sections to each group member.
+	- Discussed agile and scrum framework.
+
+	- Sections assigned:
+
+		- Website: Abualhassan (3) 
+		- Requirements: Dash, Charles (20)
+
+		- Architecture: Hannah,Ben,Abualhassan(can jump in any other section) (22)
+
+		- Method selection and planning: Cassie, Harley (10)
+
+		- Risk assessment and mitigation: Kiran (10)
+
+		- Implementation: (25) Not assigned yet, will be assigned after architecture section
+		is finished.
+
+<summary> Summarised Meeting Transcript </summary>
+	<p>
+Minutes:
+	- Discussion of agile and scrum framework, decided that we would speak to customer
+	during each group session so we can update him with what we're doing. Feedback will then be used in next session.
+	- Agile and scrum framework was a bit too complicated so it's complexity is being broken down. e.g Daily scrum is being removed as it is not required for a project this size. Some things are being removed to make it less complicated for the next team that would take over this project
+	- Sections have been assigned to each group member, since Abualhassan was assigned the website which was only worth 3 marks he is joining Hannah and ben in Architecture. He's allowed to jump into any section if others need help with their section
+	- Cassie suggested to not assigned people to implementation until architecture is completed since architecture will using diagrams, UML, tools etc... This will help with developing the prototype of the game
+	- Dash created 5 iterations for the next 5 weeks (Thur-Wed for each iteration). More information will be in the PROCESS.md doc.
+	- Cassie: Make a prototype that we can all look at and understand so we know how the game engine LibGDX is like.
+	- Dash: start programming by next week since we'll most likely have everything in place.
+</p>
+
+<br>
+
+---
+
+<br>
