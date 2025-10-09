@@ -232,7 +232,7 @@
 - Minutes:
 	- Discussion of agile and scrum framework, decided that we would speak to customer
 	during each group session so we can update him with what we're doing. Feedback will then be used in next session.
-
+	
 	- Agile and scrum framework was a bit too complicated so it's complexity is being broken down. e.g Daily scrum is being removed as it is not required for a project this size. Some things are being removed to make it less complicated for the next team that would take over this project
 
 	- Sections have been assigned to each group member, since Abualhassan was assigned the website which was only worth 3 marks he is joining Hannah and ben in Architecture. He's allowed to jump into any section if others need help with their section
