@@ -35,12 +35,10 @@ We will use Sprints for our project that last one week.
 
 **Product Backlog:**
 - The single, master to-do list for the entire project, ordered by priority.
-- We will write this as 'User Stories'. The format is: "As a [type of user], I want [an action], so that [a benefit]."
-- Example: "As a player, I want to see a timer counting down from 5 minutes, so that I know how much time I have left to escape."
-- This is how Charles will translate the project brief into actionable items.
+- Here, Charles will translate the project brief into actionable items.
 
 **Sprint Backlog:**
-- The list of User Stories (and their broken-down tasks) that we have committed to completing in the current Sprint.
+- The list of tasks that we have committed to completing in the current Sprint.
 
 **The Increment:**
 - The sum of all the Product Backlog items completed during a Sprint. At the end of each Sprint, we should have a new version of the game. It won't be the full game, but it will be a working version of it.
