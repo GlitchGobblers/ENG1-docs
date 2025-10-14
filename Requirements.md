@@ -54,6 +54,36 @@ See the example below
 ***Note: Check if the names used above are required for the requirements file or we should change them slightly***
 
 
+### **Elicitation**
+
+- **Customer Brief:**
+  Initial requirements were gathered via an interview with the customer, where we could ask questions, along with hearing about any other requests they may have.
+
+- **Research:**
+  Follow-up research was carried out into specific relevant areas such as the *game engine*, *asset sourcing*, and *technical constraints* (such as compatibility). This process identified new requirements relating to accessibility, performance, and hardware limitations.
+
+- **Internal Brainstorming:**
+  The team discussed additional ideas to fill in missing requirement areas that were no discussed in the interview.
+  Examples include:
+  -	Accessibility and input methods
+  -	Life and respawn systems
+  -	Scoring and timer mechanics
+  -	Stress and stress management system
+  -	Aesthetic and tone
+
+- **Follow-Up Questions:**
+  gaps identified during brainstorming that require further consultation with the client
+  -
+
+### **Negotiation**
+
+- **Feature Refinement:**  
+  Requirements were reviewed with the customer to determine what should be mandatory versus optional. For example, a **life system** was proposed by the team and agreed upon, despite not being part of the customer’s original vision.
+
+- **Aesthetic Clarification:**  
+  The team discussed the **art style and tone** in detail (e.g., medieval/Jorvik, sci-fi, or vaporwave). Through negotiation, it was decided that the final game should be **humorous, colourful, family-friendly,** and clearly **connected to a university in some way**
+
+
 <details>
 <summary><h2> Old file to be removed when shifted upwards into new file </h2></summary>
 
