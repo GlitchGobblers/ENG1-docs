@@ -261,7 +261,7 @@ new project is created on github allowing us to create to-do list tasks. Ones th
 | Date                    | 2025-10-15                                                     |
 | ----------------------- | -------------------------------------------------------------- |
 | Attending Members       | Abualhassan, Ben, Charles, Cassie, Dash, Kiran, Hannah		   |
-| Agenda                  |  Discussion about design , what tasks has been completed,      |
+| Agenda                  |  Discussion about design , what tasks has been completed       |
 | Description of Progress |  Asset packs were discussed and chosen by whole group. Grouo members Dash, Benson and Harley will be in charge of designing the game. Others will focus on documentation. Discussion of what tasks have been completed/incompleted. New design tasks were added. Implentation will be started next week.				| 
 
 <details>
@@ -270,6 +270,7 @@ new project is created on github allowing us to create to-do list tasks. Ones th
 
 <p>
 Discussion of what tasks has been completed/not completed:
+
 Complete : initial requirements, website,risk assessment, LibGdx research, HCI usability notes
 Incomplete: All implementation, design of map, presentation
 
