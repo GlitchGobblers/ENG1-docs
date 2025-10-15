@@ -247,3 +247,40 @@ Minutes:
 ---
 
 <br>
+| Date                    | 2025-10-15                                                     |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Abualhassan, Ben, Charles, Cassie, Dash, Kiran, Hannah		   |
+| Agenda                  |  Discussion about design , what tasks has been completed,                    |
+| Description of Progress |  Asset packs were discussed and chosen by whole group. Grouo members Dash, Benson and Harley will be in charge of designing the game. Others will focus on documentation. Discussion of what tasks have been completed/incompleted. New design tasks were added. Implentation will be started next week.				 | 
+
+<details>
+
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+Discussion of what tasks has been completed/not completed:
+Complete : initial requirements, website,risk assessment, LibGdx research, HCI usability notes
+Incomplete: All implementation, design of map, presentation
+
+Ben - LibGDX is now linked to the Github so everyone can collab on making the game.
+Everyone can code but those who don't want to will be assigned something else in the project
+Dash - suggested to start coding on it next week (so implemenation will start to be in progress)
+
+Dicussion of the game assets that's going to be implemented in the game:
+
+Ben - Asset lists uploaded on google drive. Group has now decided to use some assets in the list given. Assets chosen are: FantistyTileSet (main asset set) it has interior and exterior designs.Viking village and Tiny swords can be used a bit to see if it works well with the FantastyTileSet.  Castles are included so that can be used to design the buildings.
+Cassie - Tile packs must be the same resoulution or the game will not look smooth. The pixel poem dungeon tile set was discarded due to it being an 8 bit resolution.
+
+Some people will help with designing the map (Dash, Ben, Harley). This will be done in a call for an hour. The rest of the people in the group will help with documentation on why these assets were used, why the map is being designed this way and etc...
+
+
+
+</p>
+
+</details>
+
+<br>
+
+---
+
+<br>
