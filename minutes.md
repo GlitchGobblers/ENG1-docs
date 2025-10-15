@@ -247,6 +247,8 @@ Minutes:
 ---
 
 <br>
+
+
 | Date                    | 2025-10-15                                                     |
 | ----------------------- | -------------------------------------------------------------- |
 | Attending Members       | Abualhassan, Ben, Charles, Cassie, Dash, Kiran, Hannah		   |
