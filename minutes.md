@@ -171,6 +171,11 @@
 
 <br>
 
+---
+
+<br>
+
+
 | Date                    | 2025-10-02                                                |
 | ----------------------- | --------------------------------------------------------- |
 | Attending Members       | Abualhassan, Ben, Cassie, Dash, Kiran, Hannah, Harley     |
