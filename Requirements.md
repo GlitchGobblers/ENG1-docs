@@ -4,7 +4,7 @@
 
 Dashiell Ratcliffe	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<gcx519@york.ac.uk>\
 Ben Slater			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<bs1463@york.ac.uk>\
-Charles MacLeod		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<wzt516@york.ac.uk>\
+Charles Macleod		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<wzt516@york.ac.uk>\
 Cassie Dalrymple	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<txf510@york.ac.uk>\
 Abualhassan Alrady	&nbsp;\<lxm514@york.ac.uk>\
 Hannah Rooke		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\<hjt558@york.ac.uk>\
