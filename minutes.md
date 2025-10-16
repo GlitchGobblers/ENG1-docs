@@ -296,3 +296,17 @@ Some people will help with designing the map (Dash, Ben, Harley). This will be d
 ---
 
 <br>
+
+| Date                    | 2025-10-16                                                     |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Abualhassan, Ben, Charles, Cassie, Harley, Kiran, Hannah	   |
+| Agenda                  | Building on from last meeting							       |
+| Description of Progress | Everyone has been working on their assigned sections		   | 
+
+
+
+<br>
+
+---
+
+<br>
