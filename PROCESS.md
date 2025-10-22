@@ -42,3 +42,52 @@ We will use Sprints for our project that last one week.
 
 **The Increment:**
 - The sum of all the Product Backlog items completed during a Sprint. At the end of each Sprint, we should have a new version of the game. It won't be the full game, but it will be a working version of it.
+
+
+# Coding Standards
+- First of all, your code *must* be clear to other people.
+	- if it does something even slightly unexpected or uses an unusual quirk, anything you have to think about, add a comment
+	- we're not being marked on LOCs here
+- Use [guard clauses](https://refactoring.guru/replace-nested-conditional-with-guard-clauses) where possible to avoid nested ifs and associated complexity.
+- Write clear commit messages.
+	- In general, commits should be one conceptual unit - fixing one big bug, some related small bugs or one piece of functionality.
+		- you don't have to commit all your changes at once, and shouldn't if it conflicts with this!
+		- `git add -p` is your friend here.
+	- Look over all your code before committing it.
+- Prioritise consistency over stylistic elegance.
+	- This includes consistency with other people's code styles - if it's a real issue, send a message and we can discuss it properly.
+- Comment *why* code is doing what it does - edge cases, places where the most obvious way is incorrect, things of that nature.
+- Test before pushing.
+- Use positive naming conventions; use `isShown` rather than `isHidden`.
+	- The same applies for:
+		```python
+		if not thing:
+			...
+		else:
+			...
+		```
+	- you can reduce this to
+		```python
+		if thing:
+			...
+		else:
+			...
+		```
+	- and you should!
+	- this is a rule of thumb - if it does work better to violate this, so be it, but comment why
+- Code should be read like a book - top to bottom, left to right. They don't go diagonally off the page (lots of indentation) and their paragraphs aren't pages long, nor should your functions be.
+- Variable names should be self-descriptive.
+- Write tests in parallel with the code.
+- Write as little code as possible.
+	- if we can use an inbuilt function, we should - that's less we have to maintain and test
+- When a bug is encountered, write a test immediately to reproduce it, then create an issue for it.
+	- This is important for documentation purposes as well as ensuring bugs don't creep back up when we think they're fixed.
+	- up to a point - obviously if you find a bug before you push code or it's trivial to fix, do that
+- It is harder to read code than to write it.
+	- As such, people want to rewrite code others wrote - we should not do this.
+- Do not use variable shadowing.
+	- it's unclear and unnecessary most of the time
+- Use visually distinct names.
+	- `item` and `items` are hard to tell apart at a glance.
+- Split up chained function calls and use well-named intermediate variables to make clearer what's going on.
+	- 
