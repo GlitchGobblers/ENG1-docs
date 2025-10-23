@@ -328,7 +328,7 @@ Some people will help with designing the map (Dash, Ben, Harley). This will be d
 <summary> Summarised Meeting Transcript </summary>
 
 <p>
-Meeting should end short so we could research and learn more about libGDX and how to code with it for our game to start implementation for tomorrow. Members will be assigned what areas to code. Map design has been started by Harley, Dash and Ben but Dash emailed the custome and they said you can’t have a maze that makes you go into a different room so the map must be one whole page. Map will be tweaked to make it one page by tomorrow. 
+Meeting should end short so we could research and learn more about libGDX and how to code with it for our game to start implementation for tomorrow. Members will be assigned what areas to code. Map design has been started by Harley, Dash and Ben but Dash emailed the customer and they said you can’t have a maze that makes you go into a different room so the map must be one whole page. Map will be tweaked to make it one page by tomorrow. 
 </p>
 
 </details>
@@ -351,6 +351,12 @@ Meeting should end short so we could research and learn more about libGDX and ho
 <summary> Summarised Meeting Transcript </summary>
 
 <p>
+
+Customer response to Dash's email:
+Don't need a complicated map just as long as you add the events. It's ok as you are just creating a basic prototype. You can have a few places you can go to to there are multiple areas you can gain access to but you don't need it to necessarily be an actual maze (like going to a new room) just as long as you can escape and have the required events needed. Very basic very simple map is only need. If map done correctly, then it's accessible and easier for the next team that wants to expand on it as the map will be simple.
+
+You can block off some areas in the map. Just make it simple for the next team.
+
 
 </p>
 </details>
