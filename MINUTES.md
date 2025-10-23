@@ -315,3 +315,42 @@ Some people will help with designing the map (Dash, Ben, Harley). This will be d
 ---
 
 <br>
+
+| Date                    | 2025-10-22                                                     |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Abualhassan, Charles, Harley, Kiran, Hannah, Dash  		  	   |
+| Agenda                  | Discussion about map design and implementation			       |
+| Description of Progress | LibGDX research + how to setup	   | 
+
+
+<details>
+
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+Meeting should end short so we could research and learn more about libGDX and how to code with it for our game to start implementation for tomorrow. Members will be assigned what areas to code. Map design has been started by Harley, Dash and Ben but Dash emailed the custome and they said you can’t have a maze that makes you go into a different room so the map must be one whole page. Map will be tweaked to make it one page by tomorrow. 
+</p>
+
+</details>
+
+<br>
+
+---
+
+<br>
+
+| Date                    | 2025-10-22                                                     |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Abualhassan, Charles, Harley, Kiran, Hannah, Dash  		  	   |
+| Agenda                  | Assigning implementation areas to members							       |
+| Description of Progress | LibGDX research + how to setup	   | 
+
+
+<details>
+
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+
+</p>
+</details>
