@@ -343,7 +343,7 @@ Meeting should end short so we could research and learn more about libGDX and ho
 | ----------------------- | -------------------------------------------------------------- |
 | Attending Members       | Abualhassan, Charles, Harley, Kiran, Hannah, Dash  		  	   |
 | Agenda                  | Assigning implementation areas to members							       |
-| Description of Progress | LibGDX research + how to setup	   | 
+| Description of Progress |   | 
 
 
 <details>
