@@ -381,7 +381,7 @@ Map of game (already assigned but just reminder): Ben,Harley,Dash
 
 <br>
 
-| Date                    | 2025-10-23                                                     |
+| Date                    | 2025-11-05                                                  |
 | ----------------------- | -------------------------------------------------------------- |
 | Attending Members       | Abualhassan, Charles, Harley, Kiran, Hannah, Dash  		  	   |
 | Agenda                  | Assigning implementation areas to members							       |
