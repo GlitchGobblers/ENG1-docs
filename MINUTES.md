@@ -339,7 +339,7 @@ Meeting should end short so we could research and learn more about libGDX and ho
 
 <br>
 
-| Date                    | 2025-10-22                                                     |
+| Date                    | 2025-10-23                                                     |
 | ----------------------- | -------------------------------------------------------------- |
 | Attending Members       | Abualhassan, Charles, Harley, Kiran, Hannah, Dash  		  	   |
 | Agenda                  | Assigning implementation areas to members							       |
@@ -356,6 +356,20 @@ Customer response to Dash's email:
 Don't need a complicated map just as long as you add the events. It's ok as you are just creating a basic prototype. You can have a few places you can go to to there are multiple areas you can gain access to but you don't need it to necessarily be an actual maze (like going to a new room) just as long as you can escape and have the required events needed. Very basic very simple map is only need. If map done correctly, then it's accessible and easier for the next team that wants to expand on it as the map will be simple.
 
 You can block off some areas in the map. Just make it simple for the next team.
+
+Assigned whos doing what for implementation:
+
+Player movement: Cassie
+Collisions: Abualhassan
+Events: Ben
+Timer & Event counter: Hannah
+Documentation: Kiran
+
+Others who have not been namedd will most likely do whatever is left for the game to meet the requirements for first assessment
+
+Map of game (already assigned but just reminder): Ben,Harley,Dash
+
+
 
 
 </p>
