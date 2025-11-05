@@ -374,3 +374,32 @@ Map of game (already assigned but just reminder): Ben,Harley,Dash
 
 </p>
 </details>
+
+<br>
+
+---
+
+<br>
+
+| Date                    | 2025-10-23                                                     |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Abualhassan, Charles, Harley, Kiran, Hannah, Dash  		  	   |
+| Agenda                  | Assigning implementation areas to members							       |
+| Description of Progress |   | 
+
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+What needs to be finished off:
+
+Requirements needs to be formatted and finished off.
+Architecture class diagrams needs to be finished and some behavioural architectural processes
+Method Selection and planning needs to be finished off.
+
+</p>
+
+<br>
+
+---
+
+<br>
