@@ -341,7 +341,7 @@ Meeting should end short so we could research and learn more about libGDX and ho
 
 | Date                    | 2025-10-23                                                     |
 | ----------------------- | -------------------------------------------------------------- |
-| Attending Members       | Abualhassan, Charles, Harley, Kiran, Hannah, Dash  		  	   |
+| Attending Members       | Abualhassan, Charles,Ben, Harley, Kiran, Hannah	  	   |
 | Agenda                  | Assigning implementation areas to members							       |
 | Description of Progress |   | 
 
@@ -383,9 +383,9 @@ Map of game (already assigned but just reminder): Ben,Harley,Dash
 
 | Date                    | 2025-11-05                                                  |
 | ----------------------- | -------------------------------------------------------------- |
-| Attending Members       | Abualhassan, Charles, Harley, Kiran, Hannah, Dash  		  	   |
-| Agenda                  | Assigning implementation areas to members							       |
-| Description of Progress |   | 
+| Attending Members       | Charles, Ben, Kiran, Hannah, Dash, Abualhassan 		  	   |
+| Agenda                  | Discussion about anything that needs to be finished off before deadline					       |
+| Description of Progress | Members that have finished their areas will help on other areas that need to be finished  | 
 
 
 <details>
@@ -397,7 +397,16 @@ What needs to be finished off:
 Requirements needs to be formatted and finished off.
 Architecture class diagrams needs to be finished and some behavioural architectural processes
 Method Selection and planning needs to be finished off.
+Everyone has been assigned of what needs to be finished
 
+Implementation : User interface: Dash, Ben,Abualhassan, Cassie, Charles
+Dash will do map, user interface and animation for sprite.
+Ben and Abualhassan will continue on doing events and implementing the dean
+Charles will finish on other areas
+
+Documentation: Hannah,Kiran, Harley, Cassie
+Hannah will finish class diagrams in architecture. Kiran will help with the beahvioural processes in architecture
+Harley and Cassie will finish off method planning
 </p>
 </details>
 <br>
