@@ -387,6 +387,8 @@ Map of game (already assigned but just reminder): Ben,Harley,Dash
 | Agenda                  | Assigning implementation areas to members							       |
 | Description of Progress |   | 
 
+
+<details>
 <summary> Summarised Meeting Transcript </summary>
 
 <p>
@@ -397,7 +399,7 @@ Architecture class diagrams needs to be finished and some behavioural architectu
 Method Selection and planning needs to be finished off.
 
 </p>
-
+</details>
 <br>
 
 ---
