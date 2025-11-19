@@ -374,6 +374,28 @@ Map of game (already assigned but just reminder): Ben,Harley,Dash
 
 </p>
 </details>
+<<<<<<< HEAD
+
+<br>
+
+---
+
+<br>
+
+| Date                    | 2025-10-23                                                     |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Abualhassan, Charles, Harley, Kiran, Hannah, Dash  		  	   |
+| Agenda                  | Assigning implementation areas to members							       |
+| Description of Progress |   | 
+
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+
+</p>
+
+
+=======
 
 <br>
 
@@ -414,3 +436,34 @@ Harley and Cassie will finish off method planning
 ---
 
 <br>
+>>>>>>> 5467ec86f17913eb42246986442d49fc25132344
+
+| Date                    | 2025-11-19                                                  |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Charles, Kiran, Hannah,Harley  		  	   |
+| Agenda                  | Discussion about what game is going to be chosen for assessment 2			       |
+| Description of Progress | Game will be chosen today so we can get started on assessment 2  | 
+
+
+<details>
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+We're currently deciding between group 3,6,7,8
+
+We have dicussed this using a google doc and it is currently ordered as
+Overall thoughts - kiran, hannah, charles, harley
+Group 7
+Group 6
+Group 8
+Group 3
+
+Consider:
+Group 3 - said in method and planning ‘quality of their code structure wasn’t high’
+Group 6 - minimal explanations in architecture/too many class diagrams - similar game to our gameplay
+Group 7 - last diagram in architecture is complicated - similar to group 6 (one screen)
+Group 8 - requirements not as well defined - map quite large (more time on implementation)
+
+</p>
+
+</details>
