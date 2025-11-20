@@ -436,7 +436,7 @@ Harley and Cassie will finish off method planning
 ---
 
 <br>
->>>>>>> 5467ec86f17913eb42246986442d49fc25132344
+
 
 | Date                    | 2025-11-19                                                  |
 | ----------------------- | -------------------------------------------------------------- |
@@ -467,3 +467,45 @@ Group 8 - requirements not as well defined - map quite large (more time on imple
 </p>
 
 </details>
+
+<br>
+
+---
+
+<br>
+
+| Date                    | 2025-11-20                                                  |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Charles, Kiran, Hannah,Harley  		  	   |
+| Agenda                  | Having a game plan, assinging areas to each member for assessment 2			       |
+| Description of Progress | Finding bugs in the game we chose, what needs to be changed and what new events can be added. We will also be assigning an area to each member so make sure all marks are distributed well  | 
+
+
+
+<details>
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+Created a google doc to discuss our game plan on what needs to be added, changed or fixed. We also will be assigning areas to members to the group doc
+
+Assigned areas are:
+
+Website (3) - Abualhassan
+Change Report (23) - Kiran,Hannah
+Implementation (23) - Ben, Charles
+Software Testing Report (18) - Dash, Abualhassan
+User Evaluation (10) - Harley
+Continuous Integration (8) - Cassie
+
+Any changes to the roles will be documented but everyone should be working in their assigned areas. 
+
+
+</p>
+
+</details>
+
+<br>
+
+---
+
+<br>
