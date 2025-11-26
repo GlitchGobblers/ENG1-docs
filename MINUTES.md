@@ -509,3 +509,26 @@ Any changes to the roles will be documented but everyone should be working in th
 ---
 
 <br>
+
+| Date                    | 2025-11-26                                                  |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Charles, Kiran, Hannah  		  	   |
+| Agenda                  | Discussion of what to fix about team 7's project		       |
+| Description of Progress | Tiled map is more clean now and doesn't have any messy layers, Software tested has been written up a bit| 
+
+
+
+<details>
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+Software testing has been written up by Dash the past week (not all of it) on what things to test and how to test it so people on implementation can get an idea on how to test certain code. Change report has been looked at to see what deliverables needs to be updated or added. Tiled map is no longer just a mess of layers but all structured well, which was done by Charles
+</p>
+
+
+</details>
+<br>
+
+---
+
+<br>
