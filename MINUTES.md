@@ -532,3 +532,28 @@ Software testing has been written up by Dash the past week (not all of it) on wh
 ---
 
 <br>
+
+| Date                    | 2025-11-26                                                  |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Charles, Abualhassan, Hannah, Cassie, Dash   		  	   |
+| Agenda                  | Update on everyone's progress in the assessment 2 areas		       |
+| Description of Progress |Implementation  | 
+
+<details>
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+- Change report:(Hannah and Kiran) Bullet points of areas that need to be updated/changed/added are added for the architecture and m&p, method and planning changes will get started on this week. Changes listed from the implementation "changes made.doc" will be added to the change report on what code has been changed from the game we inherited.
+
+- Implementation:(Ben and Charles) Changes have been made,added a naming screen to name a character, fixed small bugs/unnecessary things in the game - all of this has been recorded in the "Changes made.doc" so people on change report (hannah and kiran) will be able to easily insert what changes have been added for the first section of change report.New events will be added soon, 
+
+- Software testing:(Dash and Abualhassan) Dash has been researching many testing methods which are/aren't suitable for our game and why that will be used for software and wanted to discuss with the team to see which are the best testing methods that we all agree on. Testing methods include: headless, integration, UI, asset validation and etc...
+
+- Continuous integration:(Cassie) Research has been done reccomended to those on implementation (Charles and Ben) to use a plugin that uses a google style guide documentation for Java, to keep everything structured. Reccomended to Dash,Abualhassan who is on Software testingto make sure testing is done in one day and to merge branches as soon as possible once finished with today's testing (same applies to implementation team who are just working on the game to merge branches as soon as possible) to prevent any bugs that could possibly break the game to make sure the game runs smoothly and clean.
+
+- User Evaluation:(Harley) Nothing yet as it is more towards the end.
+
+- Website:(Abualhassan) More towards end. All deliverables will be added at end.
+</p>
+
+</details>
