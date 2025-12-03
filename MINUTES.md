@@ -533,11 +533,11 @@ Software testing has been written up by Dash the past week (not all of it) on wh
 
 <br>
 
-| Date                    | 2025-11-26                                                  |
+| Date                    | 2025-12-03                                                  |
 | ----------------------- | -------------------------------------------------------------- |
 | Attending Members       | Charles, Abualhassan, Hannah, Cassie, Dash   		  	   |
 | Agenda                  | Update on everyone's progress in the assessment 2 areas		       |
-| Description of Progress |Implementation  | 
+| Description of Progress |Implementation: fixed bugs/made changes/added features for game (all changes have been documented), new software testings written up, change report has bullet pointed areas that needed to be fixed, continuous integration has been researched and talked about in meetings   | 
 
 <details>
 <summary> Summarised Meeting Transcript </summary>
