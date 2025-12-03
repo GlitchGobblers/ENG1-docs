@@ -543,6 +543,8 @@ Software testing has been written up by Dash the past week (not all of it) on wh
 <summary> Summarised Meeting Transcript </summary>
 
 <p>
+All areas updates:
+
 - Change report:(Hannah and Kiran) Bullet points of areas that need to be updated/changed/added are added for the architecture and m&p, method and planning changes will get started on this week. Changes listed from the implementation "changes made.doc" will be added to the change report on what code has been changed from the game we inherited.
 
 - Implementation:(Ben and Charles) Changes have been made,added a naming screen to name a character, fixed small bugs/unnecessary things in the game - all of this has been recorded in the "Changes made.doc" so people on change report (hannah and kiran) will be able to easily insert what changes have been added for the first section of change report.New events will be added soon, 
