@@ -90,4 +90,15 @@ We will use Sprints for our project that last one week.
 - Use visually distinct names.
 	- `item` and `items` are hard to tell apart at a glance.
 - Split up chained function calls and use well-named intermediate variables to make clearer what's going on.
-	- 
+
+# Continuous Integration - Best Practices
+- we need automated tests
+	- should fail gracefully, with good error messages
+- everyone needs to stay up to date with everyone else
+	- commit early and often
+		- commits should be broken up into small chunks
+	- before pushing, make sure it builds and passes all tests
+- fix broken builds *immediately*
+	- if the build breaks at any point, fixing that becomes top priority
+		- quick fix is to revert the breaking change until you can figure out what caused it to break
+		- this lets everyone else keep working while the person who broke it fixes it
