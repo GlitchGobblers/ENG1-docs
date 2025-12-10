@@ -559,3 +559,34 @@ All areas updates:
 </p>
 
 </details>
+
+<br>
+
+---
+
+<br>
+
+| Date                    | 2025-12-10                                                  |
+| ----------------------- | -------------------------------------------------------------- |
+| Attending Members       | Charles, Kiran, Hannah, Cassie, Dash   		  	   |
+| Agenda                  | Update on everyone's progress in the assessment 2 areas		       |
+| Description of Progress |Making a to-do list on what needs to be added for implementatioln for the User Evaluation part and questions need to be written up in UE in the next Sof1 meeting tomorrow.| 
+
+<details>
+<summary> Summarised Meeting Transcript </summary>
+
+<p>
+New progress/checklist has been made for all areas for assessment 2: 
+
+- Change report part a has been worked on and changes that need to be implemented are still being planned out for the deliverables.
+
+- Implementation has continued to be worked on and new events will be added tonight for the user evaluation tomorrow.
+
+- Sof testing has a test base and 4 tests implemented
+
+- User evaluation does not have anything written up yet. Another member might need to take over for the questions to ask the users tomorrow.
+
+- Con int Implemented what practices need to be used. In PROCESS.md but will be in a google doc.
+
+
+</p>
