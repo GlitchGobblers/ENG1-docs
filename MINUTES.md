@@ -590,3 +590,12 @@ New progress/checklist has been made for all areas for assessment 2:
 
 
 </p>
+
+</details>
+
+<br>
+
+---
+
+
+<br>
